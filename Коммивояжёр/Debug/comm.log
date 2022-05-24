@@ -1,0 +1,5 @@
+﻿  comm.cpp
+C:\Users\User\source\repos\comm\comm\Header.h(66,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\comm\comm\Header.h(251,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\comm\comm\Header.h(311,20): warning C4018: <: несоответствие типов со знаком и без знака
+  comm.vcxproj -> C:\Users\User\source\repos\comm\Debug\comm.exe
